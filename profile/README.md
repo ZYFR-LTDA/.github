@@ -110,7 +110,7 @@ D+5                D+15               reteste · D+30          resposta · cont�
   <a href="https://facebook.com/zyfr.ltda"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-> 🚨 **Incidente de segurança ou vulnerabilidade?** Escreva para **csirt@zyfr.com.br**.
+> 🚨 **Incidente de segurança ou vulnerabilidade?** Escreva para **csirt@zyfr.com.br**.<br>
 > 🔏 **Dados pessoais (LGPD):** **lgpd@zyfr.com.br**.
 
 <sub>**ZYFR LTDA** · CNPJ 69.066.646/0001-78 · SGAS 915, nº 71, Conj. B, Bloco D, Sala 103, Asa Sul, Brasília/DF</sub>
